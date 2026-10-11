@@ -1,0 +1,26 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+h1 {
+  background-color: #ff8904;
+  text-align: center;
+  padding: 10px 0;
+}
+
+.nav-bar {
+  text-align: center;
+  background-color: #ffca70;
+  padding: 15px;
+}
+
+.nav-bar ul {
+  list-style-type: none;
+}
+
+.nav-bar li {
+  display: inline-block;
+  margin: 0 15px;
+}
